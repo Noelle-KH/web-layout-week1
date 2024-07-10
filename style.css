@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap');
+
+body {
+  font-family: 'Castoro', serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.container {
+  width: 1296px;
+  margin: 0 auto;
+}
+
+.title-style {
+  font-size: 128px;
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+}
+
+.paragraph-style {
+  font-size: 32px;
+  margin-left: auto;
+}
+
+.section-title-style {
+  font-size: 40px;
+  color: #ae0000;
+  border-bottom: 3px solid #ae0000;
+  margin-top: 40px;
+  margin-bottom: 16px;
+}
+
+.time-style {
+  display: block;
+  font-size: 20px;
+  color: #949494;
+  font-style: italic;
+}
+
+.footer-style {
+  background-color: #000000;
+  text-align: center;
+  padding: 64px 0;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.w-64 {
+  width: 64px;
+}
+
+.w-636 {
+  width: 636px;
+}
+
+.bg-gray {
+  background-color: #efefef;
+}
+
+.mx-auto {
+  margin: 0 auto;
+}
+
+.mt-80 {
+  margin-top: 80px;
+}
+
+.pt-160 {
+  padding-top: 160px;
+}
+
+.mb-160 {
+  margin-bottom: 160px;
+}
+
+.pb-8 {
+  padding-bottom: 8px;
+}
+
+.pb-12 {
+  padding-bottom: 12px;
+}
+
+.pb-16 {
+  padding-bottom: 16px;
+}
+
+.px-40 {
+  padding: 0 40px;
+}
+
+.py-48 {
+  padding: 48px 0;
+}
+
+.vertical-middle {
+  vertical-align: middle;
+}
